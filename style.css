@@ -1,0 +1,48 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+ 
+}
+
+body{
+    background-image:url('https://images5.alphacoders.com/431/thumb-1920-431971.jpg');
+   
+    background-repeat: no-repeat;
+    background-size: cover;    
+    height: 800px;
+
+}
+.maindetails
+{
+  color: black;
+ 
+}
+
+.subdetails{
+  
+
+  color:black;
+ 
+
+}
+
+
+  /* ::placeholder {
+    font-weight: 900;
+    color: white;
+  }
+  ::-ms-input-placeholder { /* Edge 12-18 
+    color: white;
+  } */
+ 
+
+    input::placeholder {
+        color:black;
+        opacity: 100%;
+        /* Firefox */
+      }
+
+      #output{
+        display: none;
+      }
